@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\endproject2\endproject2\bin\Debug\endproject2.exe.config
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\endproject2\endproject2\bin\Debug\endproject2.exe
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\endproject2\endproject2\bin\Debug\endproject2.pdb
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\endproject2\endproject2\obj\Debug\endproject2.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\endproject2\endproject2\obj\Debug\endproject2.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\endproject2\endproject2\obj\Debug\endproject2.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\endproject2\endproject2\obj\Debug\endproject2.exe
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\endproject2\endproject2\obj\Debug\endproject2.pdb
